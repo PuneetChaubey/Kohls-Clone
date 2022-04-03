@@ -1,0 +1,220 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+   
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;  
+    margin: auto;
+}
+h5{
+    padding-left: 50px;
+}
+h5:hover{
+    cursor: pointer;
+    color:red ;
+}
+.p1{
+    text-align: center;
+}
+.sp{
+    font-weight: bolder;
+    color: red;
+}
+.connect{
+    text-decoration: none;;
+    color: black;
+}
+
+
+.bar{
+   display: flex;
+   justify-content: center;
+   justify-items: center;
+   background-color: black;
+   color: white;
+   height: 40px;
+   margin-top: 50px;
+   
+}
+.ig{
+    background-image: url("https://media.kohlsimg.com/is/image/kohls/hp2-d-20220330-easter-main");
+    
+}
+#option{
+    width: 100%;
+    height: 200px;
+    
+    margin-top: 10px;
+    display: flex;
+}
+#option>div{
+    width: 10%;
+    height: 70%;
+    border: 4px solid red;
+    margin: auto;
+    border-radius: 100px;
+    justify-items: center;
+    text-align: center;
+    font-size: 20px;
+}
+#option>div:hover{
+   width: 10.05%;
+   height: 71%;
+   cursor: pointer;
+
+}
+#option2{
+    width: 100%;
+    height: 200px;
+    
+    margin-top: 10px;
+    display: flex;
+}
+#option2>div{
+    width: 10%;
+    height: 70%;
+    background-color:#7b6bc7;
+    margin: auto;
+    border-radius: 100px;
+    justify-items: center;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+#option2>div:hover{
+   width: 10.05%;
+   height: 71%;
+   cursor: pointer;
+}
+#bot{
+    width: 100%;
+    height: 80px;
+    border: 5px solid #7b6bc7;
+}
+.img{
+    height: 30%;
+    width: 100%;
+    margin-top: 40px;
+     
+}
+.img:hover{
+    cursor: pointer;
+}
+.bt{
+    border: 1px solid black;height: 80px;width: 100%;text-align:center;margin-top: 90px;
+}
+.bt:hover{
+    cursor: pointer;
+}
+.wid:hover{
+    cursor: pointer;
+}
+.wid{
+    margin-top: 80px;
+    width: 100%;
+}
+.ad{
+    display: flex;width: 100%;height: 150px;justify-content: center;margin: auto;padding-top: 60px;
+}
+.ad>div{
+  
+  margin-right: 30px;  
+}
+.ad>div>img:hover{
+  width: 150pxpx;
+  height: 150px;
+  cursor: pointer;
+}
+.back{
+    background-image: url(https://media.kohlsimg.com/is/image/kohls/hp2-d-20210816-sephora-kohls-rewards);
+    width: 100%;
+    height: 123px;
+    margin-top: 50px;
+}
+.ban{
+    width: 101%;
+    margin-top: 40px;
+}
+.ban:hover{
+   cursor: pointer;
+}
+.lag{
+    width: 100%;
+    height: 500px;
+   
+    display: flex;
+    margin-bottom: 30px;
+}
+.lag>div{
+    height: 100%;
+    width: 21%;
+    
+    margin: auto;
+}
+.lag2{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.lag2>div{
+    width: 22%;
+    height: 100%;
+    margin: auto;
+    margin-left: 100px;
+}
+.but{
+    height: 150px;
+    width: 100%;
+    display: flex;
+   
+    margin: auto;
+
+}
+.but>div{
+    height: 80%;
+    width: 10%;
+    
+    margin: auto;
+    border-radius: 50%;
+}
+.but>div>img:hover{
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+}
+.fa-user,.fa-cart-shopping,.fa-circle-arrow-right{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+#banner{
+    width: 100%;
+     height: 625px;
+     display: flex;
+     margin-top: 200px
+}
+#banner>div{
+ width: 49%;
+ height: 100%;
+ 
+ margin: auto;
+}
+i:hover{
+    cursor: pointer;
+}
+.f>p:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
