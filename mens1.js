@@ -1,29 +1,29 @@
 var mens_data=[
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/3910467_Bright_Blue?wid=240&hei=240&op_sharpen=1",regulat:"$12.00",sale_price:"$10.99",name:"Men's Sonoma Goods For Life® Supersoft Solid Crewneck Tee"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/3583992_Signal_Blue?wid=600&hei=600&op_sharpen=1",regulat:"$55.00",sale_price:"$44.99",name:"Men's Nike Sportswear Club Fleece Pullover Hoodie"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/4341799_Black_Black?wid=240&hei=240&op_sharpen=1",sale_price:"$19.99",regulat:"$26.00",name:"Men's Tek Gear® Open Bottom Tricot Pant"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/4952247_ALT?wid=240&hei=240&op_sharpen=1",regulat:"$30.00",sale_price:"$17.99",name:"Men's Tek Gear® Ultra Soft Fleece Joggers"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/4972082_ALT?wid=240&hei=240&op_sharpen=1",regulat:"$35.00",sale_price:"$17.99",name:"Men's Tek Gear® Ultra Soft Fleece Hoodie"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/5178_Light_Blue?wid=240&hei=240&op_sharpen=1",regulat:"$69.50",sale_price:"$48.65",name:"Men's Levi's® 505™ Regular Jeans"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/5190352_Black?wid=240&hei=240&op_sharpen=1",regulat:"$30.00",sale_price:"$21.00",name:"Men's Eddie Bauer Resolution Classic-Fit Performance Crewneck Tee"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/5192044_Andorra_Red?wid=240&hei=240&op_sharpen=1",regulat:"$65.00",sale_price:"$45.50",name:"Men's Eddie Bauer Rainier Regular-Fit Performance ..."},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/3979888_New_White?wid=96&hei=96&op_sharpen=1",regulat:"$20.00",sale_price:"$14.39",name:"Men's Croft & Barrow® Easy-Care Pique Polo in Regular and Slim Fit"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/4632125_Black?wid=240&hei=240&op_sharpen=1",regulat:"$11.99",sale_price:"$15.00",name:"Men's Under Armour Tech Graphic Shorts"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/3450298_ALT?wid=240&hei=240&op_sharpen=1",regulat:"$25.00",sale_price:"$19.99",name:"Men's Under Armour Tech Graphic Shorts"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/2310989_Afrobeat?w",regulat:"$69.50",sale_price:"$48.65",name:"Men's Levi's® 505™ Regular-Fit Stretch Jeans"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/4471841?wid=240&hei=240&op_sharpen=1",regulat:"$69.50",sale_price:"$48.65",name:"Big & Tall Levi's® 559™ Relaxed Straight-Fit Jeans"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/1989834_Native_Cali?wid=96&hei=96&op_sharpen=1",regulat:"$69.50",sale_price:"$48.65",name:"Men's Levi's® 541™ Athletic Taper Stretch Jeans"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/424153_Rigid_Indigo?wid=96&hei=96&op_sharpen=1",regulat:"$69.50",sale_price:"$48.65",name:"Big & Tall Levi's® 501™ Jeans"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/3597690_Studio_White?wid=240&hei=240&op_sharpen=1",regulat:"$45.00",sale_price:"$34.99",name:"Men's Apt. 9® Premier Flex Slim-Fit Spread-Collar Dress"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/5172_Stonewash?wid=240&hei=240&op_sharpen=1",regulat:"$69.50",sale_price:"$48.65",name:"Men's Levi's® 550™ Relaxed-Fit Jeans"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/5516162_Gray?wid=600&hei=600&op_sharpen=1",regulat:"$36.00",sale_price:"$23.99",name:"Men's Croft & Barrow Side-Elastic Cargo Shorts"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/2143062_Bastion?wid=240&hei=240&op_sharpen=1",regulat:"$48.65",sale_price:"$69.50",name:"Men's Levi's® 513™ Slim Straight Stretch Jeans"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/187242_Black?wid=240&hei=240&op_sharpen=1",regulat:"69.50",sale_price:"$48.65",name:"Big & Tall Levi's® 505™ Regular Fit Jeans"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/3910467_Bright_Blue?wid=240&hei=240&op_sharpen=1",regulat:"$12.00",sale_price:"$10.99",name:"Men's Sonoma Goods For Life® Supersoft Solid Crewneck Tee"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/3996847_Gray_Chambray?wid=240&hei=240&op_sharpen=1",regulat:"$46.00",sale_price:"$34.99",name:"Men's Lee® Extreme Comfort Flat-Front Shorts"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/3260037_Silver_Lining?wid=240&hei=240&op_sharpen=1",regulat:"$50.00",sale_price:"$35.00",name:"Men's Grand Slam Off Course Expandable"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/5005424_Annie_Red?wid=240&hei=240&op_sharpen=1",regulat:"$17.00",sale_price:"$9.99",name:"Big & Tall Sonoma Goods For Life® Tee"},
-    {img_url:"https://media.kohlsimg.com/is/image/kohls/4485528_ALT?wid=240&hei=240&op_sharpen=1",regulat:"$30.00",sale_price:"$24.99",name:"Men's adidas Designed 2 Move Shorts"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/3910467_Bright_Blue?wid=240&hei=240&op_sharpen=1",sale_price:"$10.99",name:"Men's Sonoma Goods For Life® Supersoft Solid Crewneck Tee"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/3583992_Signal_Blue?wid=600&hei=600&op_sharpen=1",sale_price:"$44.99",name:"Men's Nike Sportswear Club Fleece Pullover Hoodie"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/4341799_Black_Black?wid=240&hei=240&op_sharpen=1",sale_price:"$19.99",name:"Men's Tek Gear® Open Bottom Tricot Pant"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/4952247_ALT?wid=240&hei=240&op_sharpen=1",sale_price:"$17.99",name:"Men's Tek Gear® Ultra Soft Fleece Joggers"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/4972082_ALT?wid=240&hei=240&op_sharpen=1",sale_price:"$17.99",name:"Men's Tek Gear® Ultra Soft Fleece Hoodie"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/5178_Light_Blue?wid=240&hei=240&op_sharpen=1",sale_price:"$48.65",name:"Men's Levi's® 505™ Regular Jeans"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/5190352_Black?wid=240&hei=240&op_sharpen=1",sale_price:"$21.00",name:"Men's Eddie Bauer Resolution Classic-Fit Performance Crewneck Tee"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/5192044_Andorra_Red?wid=240&hei=240&op_sharpen=1",sale_price:"$45.50",name:"Men's Eddie Bauer Rainier Regular-Fit Performance ..."},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/3979888_New_White?wid=96&hei=96&op_sharpen=1",sale_price:"$14.39",name:"Men's Croft & Barrow® Easy-Care Pique Polo in Regular and Slim Fit"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/4632125_Black?wid=240&hei=240&op_sharpen=1",sale_price:"$15.00",name:"Men's Under Armour Tech Graphic Shorts"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/3450298_ALT?wid=240&hei=240&op_sharpen=1",sale_price:"$19.99",name:"Men's Under Armour Tech Graphic Shorts"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/2310989_Afrobeat?w",sale_price:"$48.65",name:"Men's Levi's® 505™ Regular-Fit Stretch Jeans"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/4471841?wid=240&hei=240&op_sharpen=1",sale_price:"$48.65",name:"Big & Tall Levi's® 559™ Relaxed Straight-Fit Jeans"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/1989834_Native_Cali?wid=96&hei=96&op_sharpen=1",sale_price:"$48.65",name:"Men's Levi's® 541™ Athletic Taper Stretch Jeans"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/424153_Rigid_Indigo?wid=96&hei=96&op_sharpen=1",sale_price:"$48.65",name:"Big & Tall Levi's® 501™ Jeans"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/3597690_Studio_White?wid=240&hei=240&op_sharpen=1",sale_price:"$34.99",name:"Men's Apt. 9® Premier Flex Slim-Fit Spread-Collar Dress"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/5172_Stonewash?wid=240&hei=240&op_sharpen=1",sale_price:"$48.65",name:"Men's Levi's® 550™ Relaxed-Fit Jeans"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/5516162_Gray?wid=600&hei=600&op_sharpen=1",sale_price:"$23.99",name:"Men's Croft & Barrow Side-Elastic Cargo Shorts"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/2143062_Bastion?wid=240&hei=240&op_sharpen=1",sale_price:"$69.50",name:"Men's Levi's® 513™ Slim Straight Stretch Jeans"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/187242_Black?wid=240&hei=240&op_sharpen=1",sale_price:"$48.65",name:"Big & Tall Levi's® 505™ Regular Fit Jeans"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/3910467_Bright_Blue?wid=240&hei=240&op_sharpen=1",sale_price:"$10.99",name:"Men's Sonoma Goods For Life® Supersoft Solid Crewneck Tee"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/3996847_Gray_Chambray?wid=240&hei=240&op_sharpen=1",sale_price:"$34.99",name:"Men's Lee® Extreme Comfort Flat-Front Shorts"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/3260037_Silver_Lining?wid=240&hei=240&op_sharpen=1",sale_price:"$35.00",name:"Men's Grand Slam Off Course Expandable"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/5005424_Annie_Red?wid=240&hei=240&op_sharpen=1",sale_price:"$9.99",name:"Big & Tall Sonoma Goods For Life® Tee"},
+    {img_url:"https://media.kohlsimg.com/is/image/kohls/4485528_ALT?wid=240&hei=240&op_sharpen=1",sale_price:"$24.99",name:"Men's adidas Designed 2 Move Shorts"},
 
 ]
 
@@ -119,9 +119,9 @@ two.innerText=el.sale_price
 
 price1.append(one,two)
 
-var price2=document.createElement("span")
-first.append(price1,price2)
-price2.innerText="regular"+el.regulat
+// var price2=document.createElement("span")
+first.append(price1)
+// price2.innerText="regular"+el.regulat
 var name=document.createElement("p")
 name.innerText=el.name
 var cart=document.createElement("button")
@@ -137,7 +137,8 @@ box.append(im,first,name,cart)
 }
 function storedata(el){
     console.log(el)
-    cartdata.push(el) 
+    cartdata.push(el)
+    // window.location.href="cart.html" 
     console.log(cartdata)
     localStorage.setItem("cart",JSON.stringify(cartdata))
 }
