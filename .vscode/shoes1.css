@@ -1,0 +1,14 @@
+.shoes1Body {
+  width: 70%;
+  height: 200px;
+  margin: auto;
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-around;
+}
+
+.sideList {
+  width: 15%;
+  height: 100%;
+  border: 1px solid blue;
+}

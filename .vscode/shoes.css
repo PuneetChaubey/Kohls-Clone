@@ -1,3 +1,63 @@
+/* * {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+} */
+
+.p1 {
+  text-align: center;
+  background-color: #f0f0f0;
+  line-height: 50px;
+  margin-top: 0px;
+}
+
+.sp {
+  color: red;
+  font-weight: bold;
+}
+
+/* 
+Header
+*/
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border-bottom: thin solid #f0f0f0;
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 0px;
+  margin: auto;
+  text-align: center;
+  height: 100px;
+}
+
+.container1 div {
+  /* border: 1px solid teal; */
+  height: 70%;
+  text-align: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.container1 div i {
+  font-size: 35px;
+  cursor: pointer;
+}
+
+/* 
+End of Header
+*/
+
 /* 
 Shop by Category | My stores div 
 */
@@ -22,7 +82,6 @@ Shop by Category | My stores div
 .shopByCat div i {
   font-size: 16px;
   padding-right: 20px;
-  margin-top: -25px;
 }
 
 .shopByCat div a {
@@ -328,6 +387,10 @@ Popular Searches and Shoes on Sale
 
 .psdiv > div a:hover {
   text-decoration: none;
+}
+
+.popularSearchList > p {
+  font-size: 15px;
 }
 
 /* 
