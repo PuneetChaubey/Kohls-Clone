@@ -1,0 +1,119 @@
+#outerContainer{
+    font-family: 'Gotham', sans-serif;
+}
+#head{
+    width: 50%;
+    margin: auto;
+}
+#container{
+    width:50%;
+   display: grid;
+   grid-template-columns: repeat(2,1fr);
+   grid-template-rows: auto;
+    margin: auto;
+}
+h3{
+    color: #101920;
+    font-size: 22px;
+    /* font-weight: 400; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h4{
+    color: #101920;
+}
+p{
+    color: #303233;
+    font-size: 16px;
+}
+.input{
+    padding: 15px 120px 15px 0px;
+    border: 0.5px solid #d1e2e6;
+}
+.check{
+    font-size: 13px;
+    color: #7c828b
+    
+}
+
+#checkbox{
+  width:30px;
+  height: 30px; 
+  margin-right: 10px;
+}
+#checkcontainer{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#upline{
+  width:50%;
+  margin: auto;
+  border: 0.5px solid #d2d2d2;  
+}
+#baseline{
+    width:50%;
+  margin: auto;
+   border: 0.5px solid #d2d2d2
+}
+#btext{
+    width: 50%;
+    display: flex;
+    text-align: center;
+    margin: auto;
+   
+}
+/* #btext>div>h1{
+    color:#3ba550;
+    
+} */
+#btext>div{
+  display: flex;
+ 
+  font-size: large;
+  color:#166826;
+}
+
+#btext>#h1>p{
+   font-size: 30px;
+   color:#3ba550;
+}
+#btext> div:nth-child(2){
+    margin-left: 10px;
+}
+#boxcheck{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    font-size:14px ;
+   align-items: center;
+   padding-bottom: 30px;
+  
+}
+#boxcheck>input{
+    width:30px;
+    height: 30px;
+    margin-right: 10px;
+}
+#boxcheck>label{
+    margin-right: 30px;
+}
+#ad{
+    width: 50%;
+    margin: auto;
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+}
+#ad>label{
+    font-weight: normal;
+}
+button{
+    margin-top: 20px;
+    padding: 15px 60px 15px 60px;
+    border: 0px;
+    color: white;
+    font-weight: bolder;
+    background-color: #395723;
+    font-size: 20;
+}

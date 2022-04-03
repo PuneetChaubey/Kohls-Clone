@@ -1,0 +1,66 @@
+#outercontainer{
+    font-family: 'Gotham', sans-serif;
+}
+#container{
+    width: 60%;
+    display: flex;
+    margin: auto;
+    gap: auto;
+}
+#container>.div{
+    width:95%;
+    
+}
+#accOunt{
+    margin-left: 50px;
+}
+.input{
+    background-color: #e8f0fe;
+    border: 1px solid #e4e9f2;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px 40px 10px 40px;
+}
+p{
+    color: #495174;
+ 
+}
+button{
+    background-color:#95c96f ;
+    border: 0px;
+    padding: 20px 99px 20px 99px;
+    color: white;
+    font-weight: bold;
+}
+#container > #divider{
+    border: 0.5px solid #d2d2d2;
+}
+ #create{
+     padding: 20px 60px 20px 60px;
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#sign{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+#chbox{
+    width:30px;
+    height: 30px;
+}
+#sign+div>p{
+    width:81%;
+    font-size: 13px;
+}
+h4{
+   font-weight: 550; 
+   color: rgb(29, 28, 28);
+}
+#heading{
+    width:80%;
+    font-size: 14px;
+}
