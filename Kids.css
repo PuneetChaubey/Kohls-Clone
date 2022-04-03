@@ -1,0 +1,142 @@
+
+       body{
+        margin-top: 0%;
+        padding-top: 0%;
+        margin-left: 0%;
+        padding-left: 0%;
+      }
+      #firstDiv{
+           display: flex;
+           padding-left: 50px;
+           gap:20px;
+           height: 50px;
+           width: 100%;;
+       }
+       #navbar{
+         height: 80px;
+         width: 100%;
+         background-color: white;
+         position: fixed;
+         display: flex;
+         justify-content: space-between;
+       }
+       .nav1{
+         height: 100%;
+         width: 50%;
+         padding-left: 20px;
+         display: flex;
+       }
+       .nav1 h1{
+         cursor: pointer;
+       }
+       .nav2{
+         height: 100%;
+         width: 20%;
+         display: flex;
+       }
+       .nav2 div{
+         height: 100%;
+         width: 100px;
+         font-size: large;
+       }
+       i{
+         font-size: 40px;
+       }
+       i:hover{
+         cursor: pointer;
+       }
+       .title:hover{
+         cursor: pointer;
+       }
+       #input{
+         height: 40px;
+         width: 500px;
+         margin-left: 20px
+         ;margin-top: 20px;
+       }
+       #bc{
+           margin-left: 50px;
+       }
+       #main{
+           display: flex;
+       }
+       #side-bar{
+           margin-left: 50px;
+           height: 500px;
+           width: 200px;
+       }
+       #side-bar>p:hover{
+           cursor: pointer;
+           text-decoration: underline;
+           color:grey;
+       }
+
+       #data{
+           display: grid;
+           grid-template-columns: repeat(4,1fr);       
+          justify-content: space-evenly;
+       }
+       #firstDiv>p:hover{
+           cursor: pointer;
+           text-decoration: underline;
+       }
+       #side-bar>p{
+         color: gray;
+       }
+       #secondDiv
+       {
+           display: flex;
+           justify-content: space-evenly;
+           
+       }
+     
+       #secondDiv>div{
+           height: auto;
+           width: 200px;
+       }
+       .p{
+           margin-left: 20px;
+       }
+       .button-32{
+         
+         text-align: center;
+         margin-bottom: 20px;
+         width: 300px;
+        
+       }
+       .para-00{
+         font-size: xx-large;
+         color: red;
+         font-family: Arial, Helvetica, sans-serif;
+         margin-bottom: 2%;
+         margin-top: 0%;
+       }
+       .para-01{
+         font-style: italic;
+         font-family: sans-serif;
+       }
+/* CSS */
+.button-33 {
+ background-color: #c2fbd7;
+ border-radius: 100px;
+ box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+ color:rgb(83, 128, 0);
+ cursor: pointer;
+ display: inline-block;
+ font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+ padding: 7px 20px;
+ text-align: center;
+ text-decoration: none;
+ transition: all 250ms;
+ border: 0;
+ font-size: 16px;
+ user-select: none;
+ -webkit-user-select: none;
+ touch-action: manipulation;
+}
+
+.button-33:hover {
+ box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+ transform: scale(1.05) rotate(-1deg);
+}
+   
