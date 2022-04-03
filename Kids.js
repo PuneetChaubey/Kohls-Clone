@@ -231,7 +231,7 @@
         box.setAttribute("class","button-32")
     
         var img = document.createElement("img");
-        img.src = elem.image_url;
+        img.src = elem.img_url;
     
         var name = document.createElement("p");
         name.textContent = elem.name;
@@ -239,7 +239,7 @@
     
         
         var price = document.createElement("p");
-        price.innerText = elem.price;
+        price.innerText = elem.sale_price;
         price.setAttribute("class","para-00")
     
         var button = document.createElement("button");
