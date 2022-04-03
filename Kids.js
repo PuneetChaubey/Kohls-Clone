@@ -4,7 +4,7 @@
           image_url:
             "https://media.kohlsimg.com/is/image/kohls/3963792_Orange_Extreme_Ruby?wid=240&hei=240&op_sharpen=1",
           name: "Boys 8-20 Tek Gear® Dry Tek Shorts in Regular & Husky",
-          price: "$10.99",
+          sale_price: "$10.99",
         },
         {
           image_url:
