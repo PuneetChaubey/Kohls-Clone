@@ -4,89 +4,95 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Kohl's Women</title>
     <script src="https://kit.fontawesome.com/bbbe5e3ffc.js" crossorigin="anonymous"></script>
-   
     <link rel="stylesheet" href="home.css">
-    <link rel="stylesheet" href="createaccount.css">
-    <style>
-          @import url('http://fonts.cdnfonts.com/css/gotham');
-    </style>
+    <link rel="stylesheet" href="women.css" />
     
+
+
+ 
 </head>
 <body>
     <!-- starting header -->
-     <div class="container">
-         <div class="container1">
+    <div class="container">
+        <div class="container1">
             <a href="home.html"><h1>KOHL'S</h1></a>
-         <input style="height: 40px;width: 400px;margin-left: 20px;margin-top: 20px;" type="text" placeholder="What are you looking for today?">
-        </div>
-         <div class="container1">
-             <div style="margin-right: 30px;">
-                <i class="fa-solid fa-user"></i>
-                <h4 style="margin-top: 0px;margin-left: -10px;">Account</h4>
-            </div>
-             <div style="margin-right: 30px;">
-                <i style="width: 20px;height: 30px;" class="fa-solid fa-cart-shopping"></i>
-                <h4 style="margin-top: 0px;">$0.00</h4>
-            </div>
-             <div style="margin-right: 30px;">
+        <input style="height: 40px;width: 400px;margin-left: 20px;margin-top: 20px;" type="text" placeholder="What are you looking for today?">
+       </div>
+        <div class="container1">
+            <div style="margin-right: 30px;">
+               <i class="fa-solid fa-user"></i>
+           <a href="createaccount.html"> <h4 style="margin-top: 0px;margin-left: -10px;">Account</h4></a>    
+           </div>
+            <div style="margin-right: 30px;">
+               <a href="cart.html"><i style="width: 20px;height: 30px;" class="fa-solid fa-cart-shopping"></i>
+               <h4 style="margin-top: 0px;">$0.00</h4></a>
+           </div>
+            <div style="margin-right: 30px;">
                 <a href="thank.html"> <i class="fa-solid fa-circle-arrow-right"></i>
                     <h4 style="margin-top: 0px;margin-left:-10px">Check out</h4></a>
-            </div>
-         </div>
-     </div>
-    <!-- header end -->
-   <div id="outercontainer">
-    <div id="container">
-        <div class="div" >
-         <h3>Sign In</h3>  
-        <div id="heading" > <p>Sign in to your Kohls.com account to shop , check out or track your order</p></P> </div> 
-         <label for="">Email Address</label><br>
-         <input class="input" id="mail" type="email" placeholder="Enter Your Email"><br>
-         <label for="">Password</label><br>
-         <input class="input" id="pass" type="password"><br>
-         <div id="sign" >
-             <input type="checkbox" name="" id="chbox">
-            <span>Keep me signed in</span>
-             <!-- <span><button id="forgot" ><a href="">Forgot password?</a></button></span> -->
-            </div>
-            <div><p>Check this box to stay signed in on  this device . Recommended for devices that only you use.</p></div>
-           
-         <button id="signIn" > SIGN IN</button>
-        </div>
-        <div id="divider" ></div>
-        <div class="div" id="accOunt" >
-            <h3>Create Account</h3>
-            <div id="heading" ><p>With a Kohls.com account,enjoy exclusive , benefit that make shopping faster and easier!</p></div>
-            <div  class="contaner2"  >
-                <div>
-                </div>
-                <div><h4> Enjoy Express Checkout</h4></div>
-            </div>
-            <div  class="contaner2"  >
-                <div>
-                  
-                </div>
-                <div><h4>See your Kohl's Rewards</h4></div>
-            </div>
-            <div  class="contaner2"  >
-                <div>
-                  
-                </div>
-                <div><h4>Print Kohl's Cash</h4></div>
-            </div>
-            <div  class="contaner2"  >
-                <div>
-                  
-                </div>
-                <div><h4>track orders easily</h4></div>
-            </div>
-            <button id="create"  ><a href="signUp.html">CREATE ACCOUNT</a></button>
+           </div>
         </div>
     </div>
+   <!-- header end -->
+<br>
+<hr>
+<h4>Shop Women's Clothing</h4>
+<div class="womenBox">
+    <div class="innerbox">
+        <img  src="https://media.kohlsimg.com/is/image/kohls/shirts_visnav_125x125?wid=125&hei=125&op_sharpen=1" >
+        <p>Spring Essentials</p>
+    </div>
+    <div class="innerbox">
+        <img src="https://media.kohlsimg.com/is/image/kohls/220328_DG_Womens%20Clothing_ACTIVEWEAR_Visnav?wid=125&hei=125&op_sharpen=1" >
+        <p>Activewear</p>
+    </div>
+    <div class="innerbox">
+        <img src="https://media.kohlsimg.com/is/image/kohls/220328_DG_Womens%20Clothing_COATS_Visnav?wid=125&hei=125&op_sharpen=1" >
+        <p>Coats & Jackets</p>
+    </div>
+    <div class="innerbox">
+        <img src="https://media.kohlsimg.com/is/image/kohls/220203_DG_Womens%20Plus%20Clothing_TOPS?wid=125&hei=125&op_sharpen=1" >
+        <p>Women's Plus</p>
+    </div>
+    <div class="innerbox">
+        <img src="https://media.kohlsimg.com/is/image/kohls/80089_190626_vn_clearance?wid=125&hei=125&op_sharpen=1" >
+        <p>Shop Now</p>
+    </div>
+</div>
+
+<hr>
+<h4 id="h4">All Products (45446)</h4>
+<div class="selectdiv">
+    <div>
+        <span>Sort By</span>
+        <select >
+            <option value="Featured">Featured</option>
+            <option value="newarrivals">New Arrivals</option>
+            <option value="bestseller">Best Seller</option>
+            <option value="pricelowhigh">Price Low-High</option>
+            <option value="pricelowhigh">Price Low-High</option>
+            <option value="highestrated">Highest Rated</option>
+            <option value="percentoff">Percent Off</option>
+        </select>
    </div>
-   <!-- footer start -->
+   <div>
+    <span>Show</span>
+    <select >
+        <option value="48items">48 items</option>
+        <option value="72items">72 items</option>
+        <option value="96items">96 items</option>
+        <option value="120items">120 items</option>
+    </select>
+</div>
+</div>
+<br>
+<hr>
+<div id="contbox"></div>
+<br>
+<br>
+<!-- footer start -->
 <div style="background-color:#f0f0f0 ;width: 100%;height: 1000px;">
     <div style="width: 80%; ;margin-left: 150px;display: flex;">
      <div style="margin-left: 10px;margin-top: 20px;">
@@ -99,8 +105,8 @@
      <div style="margin-left: 40px;margin-top: 20px;"><i class="fa-brands fa-instagram"></i></div>
      <div style="margin-left: 40px;margin-top: 20px;"><i class="fa-brands fa-youtube"></i></div>
      <div style="margin-left: 120px;margin-top: 20px;">
-         <h4>GET OUR</h4>
-         <h4>APP</h4>
+         <h4 id="h4">GET OUR</h4>
+         <h4 id="h4">APP</h4>
      </div>
      <div style="margin-left: 60px;margin-top: 20px;font-size: 50px;"><i class="fa-solid fa-qrcode"></i></div>
      <div style="margin-left: 60px;margin-top: 0px;">
@@ -167,6 +173,6 @@
     </div>
     
     <!-- footer end -->
-   <script src="createaccount.js" ></script>
 </body>
+<script src="women.js"></script>
 </html>
