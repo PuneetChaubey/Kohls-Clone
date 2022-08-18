@@ -2,7 +2,7 @@
 Kohl's  is an American department store retail chain, operated by Kohl's Corporation. It sells product like clothing, footwear, bedding, furniture, décor, jewelry, toys, appliances, beauty products, electronics, and housewares.
 
 
- ### Deploy Link -> [`Check here`](https://g-lalithsai.github.io/Bobbi-brown-clone/)
+ ### Deploy Link -> [`Check here`](https://precious-twilight-36b4ef.netlify.app/)
 <img src="[https://lh3.googleusercontent.com/zyVawGkrNqTVDv1h2qrPcFty0ARE-tkuVadf3wo7m0LwLJuHWbHxQZsboLRX9q6rLkmHzA=s170](https://www.bobbibrowncosmetics.com/media/export/cms/Homepage/FH22/FH22_WeekendTravelMinis_pc.jpg)" alt=""> 
 
 ## Team members:
@@ -20,7 +20,7 @@ Kohl's  is an American department store retail chain, operated by Kohl's Corpora
 
 **Original website link**: https://www.kohls.com/
 
-**Link of our deployed project**: https://precious-twilight-36b4ef.netlify.app/
+**Link of our deployed project**:[`Check here`](https://precious-twilight-36b4ef.netlify.app/)
 
 ## Tech Stack and features
 - Html
