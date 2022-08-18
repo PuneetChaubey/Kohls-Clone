@@ -18,7 +18,7 @@ Kohl's  is an American department store retail chain, operated by Kohl's Corpora
 ## Project Details:
 
 
-**Original website link**: https://www.kohls.com/
+**Original website link**: [`Check here`](https://www.kohls.com/)
 
 **Link of our deployed project**:[`Check here`](https://precious-twilight-36b4ef.netlify.app/)
 
@@ -26,12 +26,10 @@ Kohl's  is an American department store retail chain, operated by Kohl's Corpora
 - Html
 - CSS
 - JavaScript
-- BootStrape
+- BootStrap
 - 
 ## Tools Used
 1. GitHub for collaboration
-
-
 2. Zoom and GitHub for Presentation
 3. Slack and Zoom for Communication
 
