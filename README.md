@@ -18,7 +18,7 @@ Kohl's  is an American department store retail chain, operated by Kohl's Corpora
 ## Project Details:
 
 
-**Original website link**: https://precious-twilight-36b4ef.netlify.app/
+**Original website link**: https://www.kohls.com/
 
 **Link of our deployed project**: https://precious-twilight-36b4ef.netlify.app/
 
